@@ -1,0 +1,123 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Lion",
+        "species": "Panthera leo",
+        "conservationStatus": "Vulnerable",
+        "habitat": "Savanna",
+        "population": "20,000",
+        "imageUrl": "./images/lion.jpg",
+        "imageCredit": "Lion image showcasing its majestic mane and powerful presence",
+        "likes": 0,
+        "description": "The lion is one of Africa's most iconic predators, known for living in prides and their distinctive roar that can be heard up to 8km away."
+      },
+      {
+        "id": 2,
+        "name": "Elephant",
+        "species": "Loxodonta africana",
+        "conservationStatus": "Endangered",
+        "habitat": "Savanna, Forest, Desert",
+        "population": "415,000",
+        "imageUrl": "./images/elephant.jpg",
+        "imageCredit": "African elephant displaying its impressive tusks and gentle nature",
+        "likes": 0,
+        "description": "The African elephant is the largest land mammal on Earth. They are highly intelligent and social animals living in matriarch-led family groups."
+      },
+      {
+        "id": 3,
+        "name": "Giraffe",
+        "species": "Giraffa camelopardalis",
+        "conservationStatus": "Vulnerable",
+        "habitat": "Savanna",
+        "population": "68,000",
+        "imageUrl": "./images/giraffe.jpg",
+        "imageCredit": "Giraffe showing its distinctive spotted pattern and long neck",
+        "likes": 0,
+        "description": "Giraffes are the world's tallest mammals. Their distinctive neck helps them reach leaves other herbivores cannot access."
+      },
+      {
+        "id": 4,
+        "name": "Rhino",
+        "species": "Diceros bicornis",
+        "conservationStatus": "Critically Endangered",
+        "habitat": "Savanna, Shrubland",
+        "population": "5,500",
+        "imageUrl": "./images/rhino.jpg",
+        "imageCredit": "Image 4: Caretaker with a resting rhino showing their close bond",
+        "likes": 0,
+        "description": "The black rhino is one of the most endangered large mammals in Africa, primarily due to poaching for their horns."
+      },
+      {
+        "id": 5,
+        "name": "Cheetah",
+        "species": "Acinonyx jubatus",
+        "conservationStatus": "Vulnerable",
+        "habitat": "Savanna, Grassland",
+        "population": "7,100",
+        "imageUrl": "./images/cheetah.jpg",
+        "imageCredit": "Image 5: Artistic illustration of a running cheetah on savanna",
+        "likes": 0,
+        "description": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 mph in short bursts."
+      },
+      {
+        "id": 6,
+        "name": "Leopard",
+        "species": "Panthera pardus",
+        "conservationStatus": "Vulnerable",
+        "habitat": "Forest, Savanna, Desert",
+        "population": "50,000",
+        "imageUrl": "./images/leopard.jpg",
+        "imageCredit": "Leopard showing its beautiful spotted coat pattern",
+        "likes": 0,
+        "description": "Leopards are powerful big cats known for their climbing abilities and beautiful spotted coat pattern."
+      },
+      {
+        "id": 7,
+        "name": "Zebra",
+        "species": "Equus quagga",
+        "conservationStatus": "Near Threatened",
+        "habitat": "Savanna, Grassland",
+        "population": "500,000",
+        "imageUrl": "./images/zebra.jpg",
+        "imageCredit": "Zebra displaying its distinctive black and white stripe pattern",
+        "likes": 0,
+        "description": "Zebras are known for their distinctive black and white stripes, which are unique to each individual like human fingerprints."
+      },
+      {
+        "id": 8,
+        "name": "Hyena",
+        "species": "Crocuta crocuta",
+        "conservationStatus": "Least Concern",
+        "habitat": "Savanna, Woodland",
+        "population": "27,000",
+        "imageUrl": "./images/hyena.jpg",
+        "imageCredit": "Image 2: Black and white illustration of a hyena standing in water",
+        "likes": 0,
+        "description": "Spotted hyenas are highly social animals known for their distinctive calls and exceptional hunting abilities."
+      },
+      {
+        "id": 9,
+        "name": "Impala",
+        "species": "Aepyceros melampus",
+        "conservationStatus": "Least Concern",
+        "habitat": "Savanna, Woodland",
+        "population": "2,000,000",
+        "imageUrl": "./images/impala.jpg",
+        "imageCredit": "Image 3: Side view of an Impala with long curved horns",
+        "likes": 0,
+        "description": "Impalas are graceful antelopes known for their impressive leaping abilities, capable of jumping up to 3 meters high."
+      },
+      {
+        "id": 10,
+        "name": "Chameleon",
+        "species": "Chamaeleo dilepis",
+        "conservationStatus": "Least Concern",
+        "habitat": "Forest, Woodland",
+        "population": "Unknown",
+        "imageUrl": "./images/chameleon.jpg",
+        "imageCredit": "Image 1: Close-up of a colorful chameleon with blue and orange coloring",
+        "likes": 0,
+        "description": "The chameleon is known for its ability to change colors and its independently moving eyes that can rotate 360 degrees."
+      }
+    ]

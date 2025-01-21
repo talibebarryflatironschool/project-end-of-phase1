@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>African Wildlife Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="light-mode">
+    <header>
+        <h1>African Wildlife Tracker</h1>
+        <div class="header-controls">
+            <button id="theme-toggle">🌙 Dark Mode</button>
+            <select id="status-filter">
+                <option value="all">All Statuses</option>
+                <option value="Critically Endangered">Critically Endangered</option>
+                <option value="Endangered">Endangered</option>
+                <option value="Vulnerable">Vulnerable</option>
+            </select>
+            <input type="text" id="search-input" placeholder="Search animals...">
+        </div>
+    </header>
+
+    <main>
+        <div id="wildlife-gallery"></div>
+
+        <div id="wildlife-detail">
+            <h2>Select an animal to see details</h2>
+        </div>
+
+        <form id="adoption-form" class="hidden">
+            <h3>Adopt this Animal</h3>
+            <input type="text" id="adopter-name" placeholder="Your Name" required>
+            <input type="email" id="adopter-email" placeholder="Your Email" required>
+            <textarea id="adopter-message" placeholder="Why do you want to adopt this animal?" required></textarea>
+            <button type="submit">Submit Adoption Request</button>
+        </form>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
