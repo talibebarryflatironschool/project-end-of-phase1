@@ -1,10 +1,13 @@
-### introduction
-//Project Pitch: African Wildlife Tracker
-Story
-The African Wildlife Tracker is a single-page application that aims to raise awareness about endangered African wildlife species. Users can explore different animals, learn about their conservation status, and engage with conservation efforts through interactive features.
-//Core MVP Features
-Interactive wildlife gallery with detailed species information
-Conservation status filter and search functionality(type name) type submit form)
-"Adopt an Animal" feature where users can pledge support
-Dark/Light mode toggle for better user experience
-Like/Favorite system for animals
+# Interactive U.S. Map: Top Tourist Destinations
+
+## Project Overview
+This project is an interactive web application that showcases one top tourist destination from each U.S. state. Users can click on a state to reveal detailed information about its featured destination, including a description and an image.
+
+## Features
+- **Interactive Map**: Users can interact with a U.S. map to explore tourist destinations.
+- **Dynamic Content**: Destination data is dynamically loaded from a JSON file.
+- **Responsive Design**: The application works seamlessly across devices of various sizes.
+- **Event Listeners**: 
+  - Clicking on a state to view its destination.
+  - Pressing the `Escape` key to clear the info panel.
+
